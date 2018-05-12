@@ -1,0 +1,21 @@
+{
+    "name": "typscript-dev-template",
+    "version": "0.0.1",
+    "description": "typescript-dev-template personal",
+    "main": "index.js",
+    "scripts": {
+        "dev": "no",
+        "build": "no build"
+    },
+    "keywords": [],
+    "author": "gary",
+    "license": "MIT",
+    "devDependencies": {
+        "nokit": "^0.27.1",
+        "tslint": "^5.10.0",
+        "typescript": "^2.8.3"
+    },
+    "dependencies": {
+        "@types/node": "^6.0.110"
+    }
+}
