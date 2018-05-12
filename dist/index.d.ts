@@ -1,3 +1,0 @@
-interface Demo {
-    a: string;
-}

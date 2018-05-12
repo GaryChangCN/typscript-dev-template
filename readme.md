@@ -1,4 +1,4 @@
-## ts-tslint-dev-template
+## typescript-dev-template
 
 template for develope typescript
 
